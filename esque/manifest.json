@@ -1,0 +1,11 @@
+{
+	"id": "esque",
+	"name": "esque",
+	"version": "0.0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Mistrall powered banger math app",
+	"author": "Chacha",
+	"authorUrl": "N/A",
+	"fundingUrl": "Non Profit",
+	"isDesktopOnly": false
+}
